@@ -1,9 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T14:19:51.464Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.7" etag="wYDhMHxNfoBWKeuTY1Wy" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T14:52:13.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ykp-3fcvF4FBUYsRrAWe" version="23.1.7" type="github">
   <diagram name="第 1 页" id="QFIBs2AYvvYrzGRJmAQZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-1" value="星火研发体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="70" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-2" value="展示层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-3" value="源码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-4" value="模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-5" value="SSG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-6" value="SSR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-7" value="WH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-8" value="GCP发布平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-9" value="构建层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191" y="600" width="90" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-10" value="网关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="320" width="91" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-11" value="Spark Flow" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="323" y="610" width="467" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-12" value="Code Check" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="660" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-13" value="单元测试&lt;br&gt;E2E测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482" y="660" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-14" value="Core Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="760" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-16" value="动态发布CDN发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476" y="860" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-17" value="Custom Hook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640.5" y="660" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-19" value="研发层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="960" width="91" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-20" value="FormSchema 解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="970" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-21" value="I18n自动化方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="970" width="138" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-22" value="Resource Prefetch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="648" y="1080" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-23" value="多版本动态切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="1080" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-24" value="SPA / MPA应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482" y="1080" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-26" value="API &amp;amp; WindVane Mock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="970" width="138" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-28" value="&lt;div class=&quot;lake-content&quot;&gt;自动生成首屏骨架&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="1190" width="146" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-31" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="189" y="450" width="91" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-32" value="&lt;div class=&quot;lake-content&quot;&gt;BFF&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="318" y="450" width="462" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-34" value="&lt;div class=&quot;lake-content&quot;&gt;OSS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="317" y="500" width="93" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-35" value="&lt;div class=&quot;lake-content&quot;&gt;OPEN API&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="417" y="500" width="113" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-37" value="&lt;div class=&quot;lake-content&quot;&gt;日志存储&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="543" y="500" width="113" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-38" value="&lt;div class=&quot;lake-content&quot;&gt;消息通知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657" y="500" width="113" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-40" value="Git Lab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="650" width="67" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-41" value="CDN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="408" y="640" width="67" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-42" value="门神" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="700" width="67" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
