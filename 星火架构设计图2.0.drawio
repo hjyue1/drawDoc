@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T14:52:13.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ykp-3fcvF4FBUYsRrAWe" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T01:51:31.878Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="oWS9IojYuxR0G3-cc8Os" version="23.1.7" type="github">
   <diagram name="第 1 页" id="QFIBs2AYvvYrzGRJmAQZ">
-    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="175" y="210" width="635" height="1070" as="geometry" />
+        </mxCell>
         <mxCell id="HycoSaKM1qAJHaoZX9V1-1" value="星火研发体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="230" width="70" height="840" as="geometry" />
+          <mxGeometry x="60" y="210" width="100" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="HycoSaKM1qAJHaoZX9V1-2" value="展示层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="230" width="90" height="60" as="geometry" />
+          <mxGeometry x="191" y="230" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HycoSaKM1qAJHaoZX9V1-3" value="源码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="230" width="90" height="60" as="geometry" />
@@ -56,22 +59,22 @@
           <mxGeometry x="190" y="960" width="91" height="300" as="geometry" />
         </mxCell>
         <mxCell id="HycoSaKM1qAJHaoZX9V1-20" value="FormSchema 解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="318" y="970" width="150" height="80" as="geometry" />
+          <mxGeometry x="320" y="970" width="460" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HycoSaKM1qAJHaoZX9V1-21" value="I18n自动化方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="970" width="138" height="80" as="geometry" />
+          <mxGeometry x="317" y="1070" width="138" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HycoSaKM1qAJHaoZX9V1-22" value="Resource Prefetch" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="648" y="1080" width="146" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HycoSaKM1qAJHaoZX9V1-23" value="多版本动态切换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="318" y="1080" width="146" height="80" as="geometry" />
+          <mxGeometry x="479" y="1190" width="146" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HycoSaKM1qAJHaoZX9V1-24" value="SPA / MPA应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482" y="1080" width="146" height="80" as="geometry" />
+          <mxGeometry x="648" y="1190" width="146" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HycoSaKM1qAJHaoZX9V1-26" value="API &amp;amp; WindVane Mock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="656" y="970" width="138" height="80" as="geometry" />
+          <mxGeometry x="483" y="1070" width="138" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HycoSaKM1qAJHaoZX9V1-28" value="&lt;div class=&quot;lake-content&quot;&gt;自动生成首屏骨架&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="318" y="1190" width="146" height="80" as="geometry" />
@@ -91,7 +94,7 @@
         <mxCell id="HycoSaKM1qAJHaoZX9V1-37" value="&lt;div class=&quot;lake-content&quot;&gt;日志存储&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="543" y="500" width="113" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HycoSaKM1qAJHaoZX9V1-38" value="&lt;div class=&quot;lake-content&quot;&gt;消息通知&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HycoSaKM1qAJHaoZX9V1-38" value="&lt;div class=&quot;lake-content&quot;&gt;监控告警&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="657" y="500" width="113" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HycoSaKM1qAJHaoZX9V1-40" value="Git Lab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
